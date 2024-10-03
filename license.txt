@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dress #3 (La Dame à la licorne)
+* source:	https://sketchfab.com/3d-models/dress-3-la-dame-a-la-licorne-27701a32f1474ae9857e4ae47305d479
+* author:	Mariia Moskvina (https://sketchfab.com/mariia89)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dress #3 (La Dame à la licorne)" (https://sketchfab.com/3d-models/dress-3-la-dame-a-la-licorne-27701a32f1474ae9857e4ae47305d479) by Mariia Moskvina (https://sketchfab.com/mariia89) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
